@@ -1,4 +1,4 @@
-# Flight_Chanrge_Prediction
+# Flight_Price_Prediction
 Predicting the flight prices
 
 
